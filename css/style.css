@@ -8,16 +8,16 @@
 
 }
 body{
-    background-color:#573280;
+    background-color:#222E50;
     font-family: 'Permanent Marker',cursive;
-    font-size: 25px;
-    color:#23022E;
+    font-size: 22px;
+    color:#449DD1;
     
 }
 footer{
-    font-size: 25px;
+    font-size: 22px;
     text-align: bottom;
-     color:grey;
+     color:#8EDCE6;
      
 }
 
@@ -34,14 +34,13 @@ nav{
     padding: 0%;
     width: 100% auto;
     height: 60px;
-    background-color:#BCAA99;
+    background-color:#8EDCE6;
     text-align: center;
-    color:black;
+    color:#8EDCE6;
     list-style: none;
-    list-style-type: georgian;
 }
 nav li{
     display: inline-block;
     padding: 10px 40px;
     }
-nav a{color:grey;}
+nav a{color:#222E50;}
