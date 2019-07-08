@@ -1,4 +1,4 @@
-function myFunction(){
+function displayUserOutput(){
     var temperature = document.getElementById("temp").value;
 // Creating a temp variable
     
@@ -21,3 +21,4 @@ function myFunction(){
     
     }
 
+  
