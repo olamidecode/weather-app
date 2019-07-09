@@ -9,7 +9,7 @@ let humidity = document.getElementById("humidity-div");
 
 searchButton.addEventListener("click", findWeatherDetails);
 searchInput.addEventListener("keyup", enterPressed);
-
+// created a filed for my wearther search
 function enterPressed(event) {
   if (event.key === "Enter") {
     findWeatherDetails();
